@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-elasticsearch[async]
-motor
-minio
-pydantic
-pymongo
-requests

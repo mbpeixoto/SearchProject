@@ -1,5 +1,0 @@
-ELASTICSEARCH_HOST = "http://elasticsearch:9200"
-MONGO_URI = "mongodb://mongodb:27017"
-MINIO_ENDPOINT = "http://minio:9000"
-MINIO_ACCESS_KEY = "admin"
-MINIO_SECRET_KEY = "password"
